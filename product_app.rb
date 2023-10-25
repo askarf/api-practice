@@ -17,6 +17,11 @@ else
   p "im sorry the options are specific or all, please try again"
 end
 
+#never finished doing a post of new instance
+# response = HTTP.post("http://localhost:300/products.jost", :form => {
+#   :name =>
+# })
+
 #never finished making a table so this is just blank w data
 # table = TTY::Table.new(["Item", "Price"], [["a1", "a2"], ["b1", "b2"]])
 # p table.render(:ascii)
